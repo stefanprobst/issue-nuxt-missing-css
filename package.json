@@ -1,0 +1,20 @@
+{
+  "name": "issue-nuxt-missing-css",
+  "private": true,
+	"type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/i18n": "^8.0.0-beta.12",
+    "@types/node": "^18",
+    "nuxt": "^3.6.1",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2"
+  }
+}
