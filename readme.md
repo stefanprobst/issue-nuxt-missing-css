@@ -10,7 +10,7 @@ no stylesheets are included
 
 ## workaround 1
 
-- `rm .i18n.config.ts`
+- `rm i18n.config.ts`
 
 ## workaround 2
 
