@@ -3,8 +3,8 @@
 ## reproduction
 
 - `npm install`
-- `npm build`
-- `npm preview`
+- `npm run build`
+- `npm run preview`
 
 no stylesheets are included
 
